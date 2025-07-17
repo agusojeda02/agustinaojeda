@@ -9,6 +9,11 @@ html {
   scroll-behavior: smooth;
 }
 
+.seccion-hero .precio {
+  color: #7c012d !important;
+  font-size: 36px !important;
+}
+
 /* 1. VARIABLES DE DISEÑO */
 :root {
   --primary-color: #d10014;
